@@ -10,7 +10,7 @@ API de filmes desenvolvida com Django Rest Framework.
 ## Como rodar
 
 ```bash
-git clone ...
+git clone https://github.com/diogoscastro/flix-api
 cd flix-api
 python -m venv venv
 source venv/bin/activate  # ou venv\Scripts\activate no Windows
